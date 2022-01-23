@@ -3,22 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pro1code1hack&label=Profile%20views&color=0e75b6&style=flat" alt="pro1code1hack" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pro1code1hack" alt="pro1code1hack" /></a> </p>
-
 - 🔭 I’m currently working on [Best School](https://github.com/incognito-corporation/best_school)
 
 - 🌱 I’m currently learning Django/Flask/Asyno
 
 - 🤝 I’m looking for help with [English Bot](https://github.com/pro1code1hack/english_bot)
 
-- 👨‍💻 All of my projects are available at [https://github.com/pro1code1hack](https://github.com/pro1code1hack)
-
-- 💬 Ask me about Python
-
+- 💬 Ask me about Python. Ready to collaborate on open source projects 
 - 📫 How to reach me western.ant2@gmail.com
 
-- ⚡️ I am Cybersecurity student. 
-- Interests: hacking,coding,music 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,8 +23,4 @@
 
 </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pro1code1hack&show_icons=true&locale=en&layout=compact" alt="pro1code1hack" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pro1code1hack&show_icons=true&locale=en" alt="pro1code1hack" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pro1code1hack&" alt="pro1code1hack" /></p>

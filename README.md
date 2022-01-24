@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Best School](https://github.com/incognito-corporation/best_school)
 
-- 🌱 I’m currently learning Django/Flask/Asyno
+- 🌱 I’m currently learning Django/Flask/Asyncio
 
 - 🤝 I’m looking for help with [English Bot](https://github.com/pro1code1hack/english_bot)
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yehor</h1>
-<h3 align="center">Python Beckend developer from Vinnytsia</h3>
+<h3 align="center">Python Backend developer from Vinnytsia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pro1code1hack&label=Profile%20views&color=0e75b6&style=flat" alt="pro1code1hack" /> </p>
 

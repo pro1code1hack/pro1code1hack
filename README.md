@@ -21,14 +21,14 @@ Here is the email adress: western.ant2@gmail.com. Don't hesitate to contact me �
 
 ### WEB
 
-| Syntax      | Description | Level     |
+| #1      | Description | Level     |
 | :---        |    :----:   |          ---: |
 | Languages      | Python/JavaScript/HTML/CSS 🐍       | Advanced |
 | Frameworks   | Django/Flask/FastApi 😎        | Advanced      |
 
 ### Data Science
 
-| Syntax      | Description | Level     |
+| #2      | Description | Level     |
 | :---        |    :----:   |          ---: |
 | Data Processing      | Pandas/Numpy/Scipy/PySpark/Statmodels ⚛      | Intermediate+ |
 | Visualisation   | Plotly/Matplotlib/Seaborn 📈        | Advanced      |
@@ -37,7 +37,7 @@ Here is the email adress: western.ant2@gmail.com. Don't hesitate to contact me �
 ### Other
 
 
-| Syntax      | Description | Level     |
+| #3      | Description | Level     |
 | :---        |    :----:   |          ---: |
 | Testing      |  PyTest/UnitTest 👨‍💻        | Advanced |
 | Databases   |  MySQL/PostgreSQL/Clickhouse/Redis 💾       | Advanced      |

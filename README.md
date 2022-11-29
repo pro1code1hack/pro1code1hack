@@ -8,7 +8,7 @@ Sociable, hard-working and goal-oriented personality with a huge desire to devel
 software products.
 Currently, I am living in the United Kingdom 🇬🇧 and ready to collaborate on any open-source projects.
 
-Welcome to the part of my soul I want to share you through the Github accound. Below, you will find all the technical skills I have, and pinned repos I am working on 
+Welcome to the part of my soul I want to share you through the Github accound. Below ⬇️, you will find all the technical skills I have, and pinned repos I am working on.
 
 Here is the email adress: western.ant2@gmail.com. Don't hesitate to contact me and create the future together!
  
